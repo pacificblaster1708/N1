@@ -1,0 +1,21 @@
+# data and experiment outputs
+data/
+runs/
+report/
+*.npz
+*.pt
+*.tar.gz
+
+# python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+.venv/
+venv/
+
+# editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
